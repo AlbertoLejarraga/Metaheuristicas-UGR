@@ -1,7 +1,0 @@
-Para ejecutar los algoritmos se debe ejecutar el comando siguiente:
-python main.py
-
-Se pedirá una semilla, yo he utilizado 15041995
-
-De esta forma se ejecutarán los 4 algoritmos de la práctica (ILS,DE-cruce RAND,DE-cruce BLC,SA)
-Si no se quieren ejecutar todos se puede modificar el fichero main.py en la línea 16 en la que se pueden elegir los algoritmos a ejecutar
