@@ -49,5 +49,6 @@ Adicionalmente, es necesario el uso de las siguientes clases:
 - ProblemCEC2014, que permite obtener las distintas funciones (o problemas) del benchmark CEC'2014.
 
 ## Ficheros implementados sobre el algoritmo SGO ##
-- SoccerGameOptimization, con los métodos necesarios para implementarlo
+- SoccerGameOptimization, con los métodos necesarios para implementarlo.
+
 Por último, debe descomprimirse el fichero zip antes de la ejecución del programa, en una carpeta con el mismo nombre.
